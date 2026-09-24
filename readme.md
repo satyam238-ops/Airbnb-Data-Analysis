@@ -175,24 +175,24 @@ This project helped apply practical SQL concepts including:
 - Data aggregation
 
 ### Visualizations
-![Average Price of NEighbourhood Airbnb](Visualisation\Avg_price_of_neighbourhood_airbnb_price.png)
+![Average Price of NEighbourhood Airbnb](Visualisation/Avg_price_of_neighbourhood_airbnb_price.png)
 
-![Correlation Heatmap of numeric column](Visualisation\correlation_heatmap_of_numerical_values.png)
+![Correlation Heatmap of numeric column](Visualisation/correlation_heatmap_of_numerical_values.png)
 
-![count of airbnb location in US](Visualisation\count_of_airbnb_location_in_US.png)
+![count of airbnb location in US](Visualisation/count_of_airbnb_location_in_US.png)
 
-![most preferred room types](Visualisation\Most_preferred_room_types.png)
-
-
-![number of hosts by neighbourhood](Visualisation\number_of_hosts_by_neighoburhood_group_and_room_type.png)
+![most preferred room types](Visualisation/Most_preferred_room_types.png)
 
 
-![price by number of reviews](Visualisation\price_by_number_of_revies.png)
-
-![price variation by neigbourhood](Visualisation\price_variation_by_neighbourhood_groups.png)
+![number of hosts by neighbourhood](Visualisation/number_of_hosts_by_neighoburhood_group_and_room_type.png)
 
 
-![trend of average listings price over time](Visualisation\Trend_of_average_listing_price_over_time.png)
+![price by number of reviews](Visualisation/price_by_number_of_revies.png)
+
+![price variation by neigbourhood](Visualisation/price_variation_by_neighbourhood_groups.png)
+
+
+![trend of average listings price over time](Visualisation/Trend_of_average_listing_price_over_time.png)
 
 
 
